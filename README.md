@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaRokas2005
 - 👀 I’m interested in Software Engineer
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React And TypeScript
 - 📫 How to reach me? Email: rokasbraidokas@gmail.com
 
 <!---
