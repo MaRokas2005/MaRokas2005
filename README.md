@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaRokas2005
+- 👋 Hi, I’m Rokas
 - 👀 I’m interested in Software Engineer
 - 🌱 I’m currently learning React And TypeScript
 - 📫 How to reach me? Email: rokasbraidokas@gmail.com
